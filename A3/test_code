@@ -1,0 +1,4 @@
+fs = 1000
+f = 40
+M = 500
+x = np.cos(2*np.pi*f*np.arange(M)/fs)
